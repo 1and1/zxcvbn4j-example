@@ -1,0 +1,7 @@
+apply from: 'dictionary.gradle'
+
+
+
+wrapper {
+    gradleVersion = '5.5'
+}
